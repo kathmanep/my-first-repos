@@ -1,0 +1,1 @@
+this is the first project that i started with on the codecademy site from the html corse basic beginner free learning they offer and the project you reach after passing the coding tasks from first steps
